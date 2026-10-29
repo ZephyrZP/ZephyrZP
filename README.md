@@ -27,10 +27,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔬 Interested in **Deep Learning, Computer Vision, and Natural Language Processing**.
-- 🧠 Exploring practical AI methods and building projects with **PyTorch, TensorFlow, and Keras**.
-- 🛠️ Working with **Python, C++, Shell, and OpenCV**.
-- 📚 Always learning, experimenting, and improving.
+- 🎓 I hold a **Bachelor's degree in Electronic Information Engineering** and am exploring the world of **Artificial Intelligence and Deep Learning**.
+- 🧠 I'm especially interested in **Computer Vision, Deep Learning, and Natural Language Processing**.
+- 🔬 I enjoy turning ideas into experiments, building models, and learning from what works — and what doesn't.
+- 🛠️ My toolkit includes **Python, C++, Shell, PyTorch, TensorFlow, Keras, and OpenCV**.
+- 🚀 Curious by nature, hands-on by habit — always learning, testing, and improving.
+- 📄 **[View My Resume](./assets/ZephyrZP_CV.pdf)**
 
 <!-- my-skils: customised from the original BEPb profile template -->
 ## 🧰 Languages, Tools & Tech Stack
