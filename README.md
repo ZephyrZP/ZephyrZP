@@ -21,7 +21,7 @@
 
 <!-- my-ticker -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Zephyr%21;Welcome+to+my+profile;Over+3+years+of+programming;Always+learning+new+things;I+hope+I+can+learn+a+lot+from+you+all" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Zephyr%21;Welcome+to+Zephyr%27s+HomePage;Over+3+years+of+programming;Always+learning+new+things;I+hope+I+can+learn+a+lot+from+you+all" alt="Typing SVG"></a>
 </p>
 
 ## 👨‍💻 About Me
