@@ -5,7 +5,6 @@
   <a href="https://github.com/ZephyrZP/ZephyrZP"><img src="https://img.shields.io/badge/Profile-ZephyrZP-181717?logo=github" alt="GitHub Profile"></a>
   <img src="https://img.shields.io/badge/Focus-Deep%20Learning-8A2BE2" alt="Focus: Deep Learning">
   <img src="https://img.shields.io/badge/Field-Computer%20Vision-0A7BBB" alt="Computer Vision">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZephyrZP.ZephyrZP" alt="Profile visitors">
 </p>
 
 <!-- my-header-img: keep the original template header image -->
@@ -22,7 +21,7 @@
 
 <!-- my-ticker -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B%2C+I'm+ZephyrZP;Welcome+to+my+GitHub+profile!;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+and+learning+one+project+at+a+time" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Electronic+Information+Engineering;Artificial+Intelligence+%7C+Deep+Learning;Computer+Vision+%7C+Natural+Language+Processing;Building+and+learning+one+project+at+a+time" alt="Typing SVG"></a>
 </p>
 
 ## 👨‍💻 About Me
@@ -57,44 +56,6 @@
 ⚽ Football · 📜 Learning History · 🎵 Music · ✈️ Travel · 🎌 Anime · 🎬 Movies · ♟️ Chess · 🧩 Rubik's Cube
 
 ---
-
-<!-- GitHub stats graph -->
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZephyrZP&theme=github-compact&hide_border=true" alt="ZephyrZP's GitHub activity graph" width="100%">
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZephyrZP&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical&hide_border=true" alt="ZephyrZP's GitHub stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZephyrZP&layout=compact&theme=radical&hide_border=true" alt="ZephyrZP's most-used languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZephyrZP&theme=radical&hide_border=true" alt="ZephyrZP's GitHub streak">
-</p>
-
-<!-- profile-green-animate: generated asset from the template; see setup note below -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution graph" width="100%">
-</p>
-
-<!-- grid-snake: requires the repository's Actions workflow to generate the output branch -->
-<p align="center">
-  <img src="https://github.com/ZephyrZP/ZephyrZP/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%">
-</p>
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZephyrZP&theme=radical&no-frame=true&row=1&column=7" alt="ZephyrZP's GitHub profile trophies" width="100%">
-</p>
-
-## 👋 Thanks for visiting!
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ZephyrZP/count.svg" alt="Profile visitor count">
-</p>
 
 ## ⭐ Star History
 
